@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="63429b4c-cc63-4332-a781-871d3f2ec17a" name="dev.amic.am" url="https://amic.am">
+        <fileTransfer rootFolder="/home/amicam/public_html" accessType="SFTP" host="amic.am" port="22" sshConfigId="7eaf7eb7-b3dd-41a9-b71e-643f5798b65a" sshConfig="amicam@amic.am:22 key" keyPair="true">
+          <advancedOptions>
+            <advancedOptions keepAliveTimeout="0" passiveMode="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>

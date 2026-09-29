@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SshConfigs">
+    <configs>
+      <sshConfig host="amic.am" id="7eaf7eb7-b3dd-41a9-b71e-643f5798b65a" keyPath="$USER_HOME$/.ssh/amicam" port="22" nameFormat="DESCRIPTIVE" username="amicam" useOpenSSHConfig="true" />
+    </configs>
+  </component>
+</project>

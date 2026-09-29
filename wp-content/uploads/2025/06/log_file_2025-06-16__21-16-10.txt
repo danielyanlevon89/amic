@@ -1,0 +1,9 @@
+
+---Downloaded files---
+The import files for: globalnews were successfully downloaded!
+Initial max execution time = 30
+Files info:
+Site URL = http://localhost
+Data file = /var/www/wp-content/uploads/2025/06/demo-content-import-file_2025-06-16__21-16-10.xml
+Widget file = /var/www/wp-content/uploads/2025/06/demo-widgets-import-file_2025-06-16__21-16-10.json
+Customizer file = /var/www/wp-content/uploads/2025/06/demo-customizer-import-file_2025-06-16__21-16-10.dat
