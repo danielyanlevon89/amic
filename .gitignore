@@ -5,3 +5,5 @@ wp-content/files
 docker/nginx/config
 /wp-includes/
 /wp-admin/
+.htaccess
+/wp-content/cache/
