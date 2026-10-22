@@ -3,3 +3,5 @@ var/*
 wp-config.php
 wp-content/files
 docker/nginx/config
+/wp-includes/
+/wp-admin/
